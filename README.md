@@ -8,6 +8,8 @@ Algorithm Analysis:
 Complexity and Big O notation: Complexity of an algorithm is the measure of amount of time/ space required by an algorithm for a given input.
 
 In the case of Linear Search:
+
 Complexity is cN (c -> constant depends on the number of operations that we perform in each iteration and time taken to execute the statment).
+
 Space complexity is some constant c' (independent of N), since we just need a single variable position to iterate through the array, 
 and it occupies a constant space in the computer's memory (RAM)
